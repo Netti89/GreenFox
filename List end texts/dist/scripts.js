@@ -9,7 +9,8 @@ let additionalBlock = {
 
   function myAdditionalFunction () 
   {$('ul').append(`<h1>${additionalBlock.title}<h1>`);
-   $('ul').append(`<p>${additionalBlock.text}<p>`);}
+   $('ul').append(`<p>${additionalBlock.text}<p>`)
+  }
   
   myAdditionalFunction()
 
