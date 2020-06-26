@@ -1,0 +1,22 @@
+main {
+  font-family: 'Sen', sans-serif;
+  margin:0 0 20px;
+}
+
+a {
+  color:green;
+  cursor:pointer;
+}
+
+a:hover {
+  color: lime;
+  text-decoration: none;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:active {
+  color: red;
+}

@@ -1,0 +1,124 @@
+main {
+  display:block;
+  margin-left:-10px;;
+  margin-right:auto;
+}
+
+header {
+  position:fixed;
+  background: black;
+  height: 90px;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  top: 0;
+  width:100%;
+  z-index:10;
+  color:white;
+  font-size:40px;
+}
+
+a {
+  margin-left:80px;
+}
+
+
+ img {
+  position:relative;
+  width:600px;
+  height:500px;
+  margin-right:15px;
+  }
+
+.first-features {
+  display:flex;
+  margin-top:90px;
+  margin-bottom:150px;
+}
+
+.key-features {
+  display:flex;
+  align-items:baseline;
+}
+
+.highlight {
+ flex:1;
+ color:white;
+ font-size:85px;
+ font-weight:bold;
+ position:relative;
+ display:flex;
+ justify-content:center;
+ padding-bottom:50px;
+ padding-top:50px;
+ background:grey;
+ }
+  
+.text {
+  flex:1;
+  margin-left:20px;
+  margin-right:10px;
+}
+
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  line-height:150%;
+  font-size:21px;
+}
+
+.title1 {
+  font-family: 'Abril Fatface', cursive;
+  font-size:40px;
+  position:absolute;
+  top:290px;
+  left:200px;
+}
+
+.title2 {
+  font-family: 'Abril Fatface', cursive;
+  font-size:100px;
+  position:absolute;
+  line-height:80%;
+  top:280px;
+  left:200px;
+}
+
+li {
+  margin-left:30px;
+  line-height:150%;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:21px;
+  list-style-type:square; 
+}
+
+.lis {font-size:20px;}
+
+qm {
+  position:absolute;
+  font-weight:bold;
+  font-size:200px;
+  color:white;
+  top:-70px;
+  left:-10px;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size:40px;
+  margin-bottom:60px;
+}
+
+h3 {
+  color:black;
+  font-size:30px;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-bottom:10px;
+  margin-top:40px;}
+
+h4 {
+  font-family: 'Merriweather', serif;
+  font-size:20px;
+  margin-top:0px;
+  font-style:italic;
+}

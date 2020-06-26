@@ -1,0 +1,20 @@
+main{
+  border: 5px solid #4285f4;
+  width:30%;
+  background:#E67676;
+}
+
+div {
+  margin-top:5px;
+  border: 5px solid #4285f4;
+  width:30%;
+  background:#A9E6E6;
+}
+
+p{
+  text-align:center;
+  font-size:24px;
+  font-weight:bold;
+  color:white;
+  
+}

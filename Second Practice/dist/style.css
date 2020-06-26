@@ -1,0 +1,12 @@
+.first {
+  display:inline;
+  padding:10px;
+  background:red;
+  font-weight:600;
+}
+
+.second {
+  margin-left:10px;
+  background:orange;
+  margin-right:900px;
+}
